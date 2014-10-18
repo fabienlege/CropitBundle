@@ -1,0 +1,3 @@
+fl_cropit_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FLCropitBundle:Default:index }
